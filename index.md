@@ -2,6 +2,16 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: Bee3 Labs
+description: A venture studio focused on building web3 infrastructure and tooling.
+
+head:
+  - - meta
+    - name: title
+      content: Bee3 Labs
+  - - meta
+    - name: description
+    - content: A venture studio focused on building web3 infrastructure and tooling.
 
 hero:
   name: Bee3 Labs 

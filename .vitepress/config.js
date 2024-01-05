@@ -11,7 +11,7 @@ export default defineConfig({
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
-      ['meta', { name: 'title', content: 'Bee3 Labs '}],
+      ['meta', { name: 'title', content: 'Bee3 Labs'}],
       ['meta', { name: 'description', content: 'A venture studio focused on building web3 infrastructure and tooling.' }],
     ],
     nav: [
